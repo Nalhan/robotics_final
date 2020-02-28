@@ -8,3 +8,5 @@ Objective was to set up a simulation in Matlab and implement some novel features
   
 Here is a youtube playlist of some of the simulation videos recorded during testing:
 https://www.youtube.com/watch?v=yDB0hqT1H14&list=PLQD8Nf1ZrH0NfifHJ2kRwtLpoKTxJ0Wno&index=2&t=0s
+
+There is a powerpoint presentation at the root of the repository that may be of interest.
